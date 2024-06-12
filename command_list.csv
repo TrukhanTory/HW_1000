@@ -1,0 +1,211 @@
+    1  help
+    2  man cd
+    3  cd ls
+    4  cd truqa33
+    5  ls go it
+    6  cd goit
+    7  cd  c\users
+    8  cd c/users
+    9  cd /с/users/
+   10  pwd
+   11  ls -l
+   12  cd dextop
+   13  cd Desctop
+   14  cd  Desktop
+   15  cd /c/Users/Truha
+   16  cd clear
+   17  clear
+   18  pwd
+   19  cd D
+   20  cs T
+   21  cd
+   22  c && rm ~/.bash_history
+   23  cd T
+   24  cd Truqa36
+   25  cd /с/Users/Truqa36
+   26  HW_10. Файли README.md 
+   27  clone HW_10
+   28  clone HW_10ls
+   29  ls
+   30  cd
+   31  help
+   32  pwd
+   33  cd ~
+   34  clear
+   35  cs Desktop/Truqa36/
+   36  git clone https://github.com/TrukhanTory/HW_10.git
+   37  cd HW_10
+   38  clear
+   39  cd Desktop/Truga36/
+   40  clear
+   41  cd Desktop/Truqa36/
+   42  cd C:\Users\Truha\OneDrive\Робочий стіл\Truqa36>
+   43  cd C:\Users\Truqa36>
+   44  $ cd C:\Users\Truqa36>
+   45  bash: syntax error near unexpected token `newline'
+   46  cd
+   47  -c && rm ~/.bash_history
+   48  clear
+   49  cd Desktop\Truqa36\
+   50  pwd
+   51  cd \Desktop\Truqa36\
+   52  clear
+   53  pwd
+   54  cd \c\Users\Truha
+   55  cd \c\Users\Truqa36\
+   56  touch text_ignore.txt
+   57  git clone https://github.com/TrukhanTory/HW_10.git
+   58  cd
+   59  clear
+   60  git clone https://github.com/TrukhanTory/HW_10.git
+   61  touch text_ignore.txt
+   62  clear
+   63  git clone https://github.com/TrukhanTory/HW_10.git
+   64  cd HW_10
+   65  touch text_ignore.txt
+   66  nano .gitignore
+   67  git clone https://github.com/TrukhanTory/HW_10.git
+   68  cd HW_10
+   69  touch text_ignore.txt
+   70  nano .gitignore
+   71  git status
+   72  git add
+   73  git add .
+   74  git commit -m
+   75  git status
+   76  git commit -a
+   77  git clone https://github.com/TrukhanTory/HW_10.git
+   78  cd HW_10
+   79  touch text_ignore.txt
+   80  nano .gitignore
+   81  git clone https://github.com/TrukhanTory/HW_10.git
+   82  cd HW_10
+   83  clear
+   84  git clone https://github.com/TrukhanTory/HW_10.git
+   85  clear
+   86  git clone https://github.com/TrukhanTory/HW_10.git
+   87  cd HW_10
+   88  touch .gitignore
+   89  touch text_ignore.txt
+   90  nano .gitignore
+   91  ciear
+   92  clear
+   93  git clone https://github.com/TrukhanTory/HW_10.git
+   94  cd HW_10
+   95  touch text_ignore.txt
+   96  nano .gitignore
+   97  git status
+   98  git add.
+   99  commit -m "add file  text_ignore.txt"
+  100  commit -m "All changes"
+  101  git add .
+  102  clear
+  103  git clone Homework 16 - Git. GitHub
+  104  Частина 1. Командний рядок
+  105  Частина 2. Git
+  106  clear
+  107  clear
+  108  git clone https://github.com/TrukhanTory/HW_10.git
+  109  cd HW_10
+  110  touch text_ignore.txt
+  111  nano .gitignore
+  112  git status
+  113  git add .
+  114  commit -m "add file text_ignore.txt"
+  115  git help
+  116  clear
+  117  git help
+  118  help
+  119  help lr
+  120  help info
+  121  clear
+  122  help
+  123  pwd
+  124  clear history
+  125   clear
+  126  git config --global user.name Trukhan Tory
+  127  clear
+  128  git confid --global user.name TrukhanTory
+  129  сдуфк
+  130  clear
+  131  git config --global user.name Trukhan Tory
+  132  git config --global user.email trukhanmatvei2016@gmail.com
+  133  git clone https://github.com/TrukhanTory/HW_10.git
+  134  clear
+  135  git config --global user.name Trukhan Tory
+  136  git config --global user.email trukhanmatvei2016@gmail.com
+  137  git clone https://github.com/TrukhanTory/HW_10.git
+  138  pwd
+  139  clear
+  140  cd Truqa36
+  141  dir
+  142  dir
+  143  cd HW_10
+  144  cd Truqa36
+  145  cd HW_10
+  146  git config --global user.name Trukhan Tory
+  147  git config --global user.email trukhanmatvei2016@gmail.com
+  148  git clone https://github.com/TrukhanTory/HW_10.git
+  149  cd HW_10
+  150  touch text_ignore.txt
+  151  nano .gitignore
+  152  git status
+  153  git add .
+  154  git commit -m "Add text_ignore.txt to .gitignore"
+  155  touch main_test.txt
+  156  git add .
+  157  git commit -m "Add main_test.txt"
+  158  git checkout -b develop
+  159  touch develop_test.txt
+  160  git add .
+  161  git commit -m "Add develop_test.txt to develop branch"
+  162  vim develop_test.txt
+  163  git status
+  164  git add .
+  165  git commit -m "Change file develop_text.txt"
+  166  git checkout main
+  167  git merge develop
+  168  git log
+  169  history > command_list.csv
+  170   git help
+  171  git add .
+  172  git commit -m "Command_list.csv"
+  173  git push
+  174  git push
+  175  touch ~/.bash_history
+  176  clear
+  177  git config --global user.email 
+  178  git config --global user.name
+  179  clear
+  180  touch ~/.bash_history
+  181  clear
+  182  cd HW_10
+  183  git config --global user.name Trukhan 
+  184  git config --global user.name Trukhan Tory
+  185  touch ~/.bash_history
+  186  clear
+  187  cd HW
+  188  touch ~/.bash_history
+  189  clear
+  190  cd HW_10
+  191  git config --global user.name Trukhan Tory
+  192  git config --global user.email trukhanmatvei2016@gmail.com
+  193  git clone https://github.com/TrukhanTory/HW_10.git
+  194  cd HW_10
+  195  touch text_ignore.txt
+  196  nano .ignore
+  197  git status
+  198  git add .
+  199  git commit -m "Add main_test.txt"
+  200  git checkout -b develop
+  201  touch develop_test.txt
+  202  git add .
+  203  git commit -m "Add develop_test.txt to develop branch"
+  204  vim develop_test.txt
+  205  git status
+  206  git add .
+  207  git commit -m "Change file develop_text.txt"
+  208  git checkout main
+  209  git merge develop
+  210  git log
+  211  history > command_list.csv
